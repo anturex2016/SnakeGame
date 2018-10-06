@@ -1,0 +1,1 @@
+Mini project of snake game.. It is build in C language
